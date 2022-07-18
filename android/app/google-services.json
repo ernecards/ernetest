@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "640326166961",
+    "project_id": "ernecards-fd2ab",
+    "storage_bucket": "ernecards-fd2ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640326166961:android:ff2434a65b298f7cdd7590",
+        "android_client_info": {
+          "package_name": "com.flutterflow.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640326166961-lujg4ptkhg9q7pa5rk7j8dviu3559jio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLvZtzHyL4Cvf-n9Qnnbs2J3MowaxMsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640326166961-lujg4ptkhg9q7pa5rk7j8dviu3559jio.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640326166961-6og17bhrleod38h4gbu998n3m4hgiojh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.erne"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640326166961:android:7912e46f8475e181dd7590",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fftrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640326166961-lujg4ptkhg9q7pa5rk7j8dviu3559jio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLvZtzHyL4Cvf-n9Qnnbs2J3MowaxMsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640326166961-lujg4ptkhg9q7pa5rk7j8dviu3559jio.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640326166961-6og17bhrleod38h4gbu998n3m4hgiojh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.erne"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640326166961:android:5debb97cdf9b6542dd7590",
+        "android_client_info": {
+          "package_name": "com.mycompany.erne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640326166961-1iq5lkpl4ctu9mn4irtf249iuheuo244.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.erne",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "640326166961-lujg4ptkhg9q7pa5rk7j8dviu3559jio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLvZtzHyL4Cvf-n9Qnnbs2J3MowaxMsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640326166961-lujg4ptkhg9q7pa5rk7j8dviu3559jio.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640326166961-6og17bhrleod38h4gbu998n3m4hgiojh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.erne"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
